@@ -1,6 +1,5 @@
-import react from 'react';
 
-Text = (props) => {
+const Text = (props) => {
     return (
         <div>
           <h1>Hello, React!</h1>
